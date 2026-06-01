@@ -1,4 +1,4 @@
-public class kokoBanana {
+public class KokoBanana {
 
     public static int hoursToEat(int[] piles, int k) {
 
